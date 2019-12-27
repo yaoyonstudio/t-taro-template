@@ -1,0 +1,10 @@
+{
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
